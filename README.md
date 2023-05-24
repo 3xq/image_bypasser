@@ -6,4 +6,4 @@ python3 main.py \[filename]
 
 # example
 python3 main.py image.png
-![alt text](https://github.com/3xq/image_bypasser/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/3xq/image_bypasser/blob/main/image.png?raw=true)
