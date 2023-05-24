@@ -6,3 +6,4 @@ python3 main.py \[filename]
 
 # example
 python3 main.py image.png
+![fuck shit]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1106193229491228753/1111071622087049337/image.png))
